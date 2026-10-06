@@ -1,5 +1,5 @@
 from datetime import date
-from pathlip import path
+from pathlib import path
 import pandas as pd
 import streamlit as st
 DATA_FILE = Path("data/checkins.csv")
